@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.container{
+    width: 30vw;
+    height: 30vh;
+    background-color: aqua;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
